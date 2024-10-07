@@ -43,7 +43,7 @@ const Hero = () => {
                 </span>
               </h1>
               <p>
-                Rezivure a new startup dedicated creating digital privacy tools that everyone deserves. Follow us to check out what we are working or click below to see our
+                Rezivure is a new startup dedicated to creating digital privacy tools. Follow us on X or click below to see our
                 first project!
               </p>
 
