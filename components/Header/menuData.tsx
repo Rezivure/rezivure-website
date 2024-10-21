@@ -9,13 +9,13 @@ const menuData: Menu[] = [
   },
   {
     id: 2,
-    title: "About",
-    newTab: false,
-    path: "/about",
+    title: "News",
+    newTab: true,
+    path: "https://ghost.rezivure.com",
   },
   {
     id: 2.1,
-    title: "News",
+    title: "Social",
     newTab: false,
     path: "https://x.com/rezivure",
   },
