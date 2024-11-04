@@ -1,4 +1,5 @@
-# Rezivure.com Landing Page
+# Rezivure.com
+#### An oasis for privacy.
 Landing page for Rezivure.com, **built with Next.js 13, React 18 and TypeScript** from open source template Solid.
 
 
