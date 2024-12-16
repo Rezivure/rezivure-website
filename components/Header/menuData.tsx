@@ -11,7 +11,7 @@ const menuData: Menu[] = [
     id: 2,
     title: "News",
     newTab: true,
-    path: "https://ghost.rezivure.com",
+    path: "https://rezivure.io",
   },
   {
     id: 2.1,
